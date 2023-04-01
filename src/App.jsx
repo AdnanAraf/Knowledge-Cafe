@@ -5,7 +5,7 @@ import Question from "./components/Question/Question";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 const App = () => {
-  // console.log("Hello World");
+  console.log("Hello World");
 
   return (
     <div>
