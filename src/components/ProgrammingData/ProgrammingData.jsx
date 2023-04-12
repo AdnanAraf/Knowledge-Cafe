@@ -66,7 +66,7 @@ const ProgrammingData = () => {
         ))}
       </div>
       <div>
-        <div className=" h-[80px] w-[350px] border-2 my-[32px] text-center py-[21px] border-violet-300 rounded-lg bg-violet-50 font-bold text-violet-600">
+        <div className=" h-[80px] w-[350px] border-2 my-[32px] text-center py-[21px] border-violet-300 rounded-lg bg-violet-50 font-bold text-violet-600 ">
           <SpentTime cart={cart}></SpentTime>
         </div>
         <div>

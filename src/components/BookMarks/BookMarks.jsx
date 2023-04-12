@@ -6,7 +6,7 @@ const BookMarks = (props) => {
   // console.log(mark);
   return (
     <>
-      <div className=" bg-gray-100 rounded-lg py-[20px]">
+      <div className=" bg-gray-100 rounded-lg py-[20px] sticky top:0">
         <div>
           {
             <h1 className=" mx-[30px] font-bold font-mono text-[24px]">
